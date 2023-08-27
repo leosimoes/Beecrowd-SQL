@@ -27,7 +27,8 @@
 | 2623 | Categories with Various Products		| 4     | 
 | 2624 | Number of Cities per Customers	        | 3     | 
 | 2625 | CPF Validation	                        | 4     | 
-| 2737 | Lawyers			                    | 6     | 
+| 2737 | Lawyers			                    | 6     |
+| 2738 | Contest			                    | 4     | 
 | 2739 | Payday			                    | 6     | 
 | 2744 | Passwords	                            | 1     | 
 | 2745 | Taxes	                                | 3     | 
