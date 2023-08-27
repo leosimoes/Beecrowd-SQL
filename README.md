@@ -29,7 +29,8 @@
 | 2625 | CPF Validation	                        | 4     | 
 | 2737 | Lawyers			                    | 6     |
 | 2738 | Contest			                    | 4     | 
-| 2739 | Payday			                    | 6     | 
+| 2739 | Payday			                    | 6     |
+| 2740 | League			                    | 5     | 
 | 2744 | Passwords	                            | 1     | 
 | 2745 | Taxes	                                | 3     | 
 | 2746 | Viruses	                            | 1     | 
