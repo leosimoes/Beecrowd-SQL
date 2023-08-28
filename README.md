@@ -38,6 +38,7 @@
 | 2988 | Cearense Championship	                | 4     | 
 | 2993 | Most Frequent	                        | 3     |
 | 2995 | The Sensor Message	                | 5     |
+| 3001 | Update sem Where | 6     |
 
 
 ## References
