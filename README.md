@@ -32,6 +32,7 @@
 | 2739 | Payday			                             | 6     |
 | 2740 | League			                             | 5     | 
 | 2741 | Students Grades			                    | 5     | 
+| 2742 | Richard's Multiverse			                    | 5     | 
 | 2743 | Number of Characters	                            | 3     | 
 | 2744 | Passwords	                            | 1     | 
 | 2745 | Taxes	                                | 3     | 
