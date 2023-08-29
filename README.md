@@ -32,13 +32,14 @@
 | 2739 | Payday			                             | 6     |
 | 2740 | League			                             | 5     | 
 | 2741 | Students Grades			                    | 5     | 
+| 2743 | Number of Characters	                            | 3     | 
 | 2744 | Passwords	                            | 1     | 
 | 2745 | Taxes	                                | 3     | 
 | 2746 | Viruses	                              | 1     | 
 | 2988 | Cearense Championship	                | 4     | 
 | 2993 | Most Frequent	                        | 3     |
 | 2995 | The Sensor Message	                   | 5     |
-| 2996 | Package Delivery                      | 5    |
+| 2996 | Package Delivery                      | 5     |
 | 3001 | Update sem Where                      | 6     |
 
 
