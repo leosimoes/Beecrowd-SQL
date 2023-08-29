@@ -40,6 +40,7 @@
 | 2988 | Cearense Championship	                | 4     |
 | 2990 | Employees CPF	                | 4     | 
 | 2993 | Most Frequent	                        | 3     |
+| 2994 | How much earn a Doctor?	                        | 2     |
 | 2995 | The Sensor Message	                   | 5     |
 | 2996 | Package Delivery                      | 5     |
 | 3001 | Update sem Where                      | 6     |
